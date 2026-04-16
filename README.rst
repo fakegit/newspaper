@@ -350,6 +350,16 @@ This is another working online demo: http://newspaper.chinazt.cc/
 Interested in proxies?
 ======================
 
+Skip the scraping headaches — get proxies that actually work
+------------------------------------------------------------
+`Click here to try Webshare`_, the proxy network built for devs who scrape at scale. Get 80M+ residential IPs, blazing-fast datacenter proxies, and a free tier that actually lets you test before you commit. No contracts, no nonsense — just proxies that don't get blocked.
+
+.. image:: https://github.com/user-attachments/assets/af3431bb-6436-485b-b354-10828692803d
+        :target: https://www.webshare.io/?referral_code=eb53spijl2ih
+        :alt: Webshare — reliable proxies built for developers and scrapers.
+.. _`Click here to try Webshare`: https://www.webshare.io/?referral_code=eb53spijl2ih
+.. _`Start Scraping`: https://www.webshare.io/?referral_code=eb53spijl2ih
+
 Stay private, fast, and fully in control
 ----------------------------------------
 `Click here to explore BestProxy`_, your go-to solution for premium residential proxies. BestProxy's proxies ensure smooth browsing, fast speeds, and total anonymity. `Get Started`_ today and experience the difference!
